@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "d62e949e181fb86bc9a10aac",
+  "owner": "mfjpfmd",
+  "repo": "mfjpfmd.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "6b5aeb06c1c6e9b64ea13ac0",
+      "a": "Godetia",
+      "b": "加速器官网",
+      "entity": "Godetia",
+      "brand": "Godetia",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9246ffc1a20ebf6408805af053f1500b7fb568bbf412411a4fb40b9d7219c2f8",
+      "content": {
+        "primary_entity": "Godetia",
+        "keyword1": "Godetia",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "在手机、电脑和路由器上按需选择客户端，按设备文档配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量习惯选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，开始配置",
+          "AI_DESCRIPTION": "，套餐按流量、设备数和线路类型区分，适合个人日常使用、多设备家庭及小型团队协作场景。",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量和订阅周期三个角度评估套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版提供轻量流量与少量设备，适合单人或双人日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版提升流量与设备数量，并含专线优化，适合多设备家庭。",
+          "AI_FEATURE_TEXT_3": "团队版面向多设备协作与定制路由需求，适合小型工作组。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "多设备均衡",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "先确认套餐与设备，再在客户端里完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Godetia 提供基础版、旗舰版和团队版三档套餐，覆盖不同流量、设备数量和线路需求。选择时可先确认同时在线设备数与每月用量，再按客户端文档配置订阅。",
+          "AI_HERO_SUBTITLE": "按设备数与流量选套餐",
+          "AI_HIGHLIGHT_1": "基础版适合单人或少量设备日常使用。",
+          "AI_HIGHLIGHT_2": "旗舰版兼顾流量与设备数，支持专线优化。",
+          "AI_HIGHLIGHT_3": "团队版面向多设备协作与定制路由需求。",
+          "AI_PLANS_INTRO": "按同时在线设备数和每月流量需求，在基础版、旗舰版和团队版之间比较。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备和流量需求选定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量和客户端平台的要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Godetia 套餐与客户端配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Godetia 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "通常可以在当前周期结束后切换套餐，具体以所选套餐的说明为准。建议先评估流量与设备变化，再决定是否升级或降级。",
+          "AI_FAQ_QUESTION_2": "团队版适合多少人使用？",
+          "AI_FAQ_ANSWER_2": "团队版面向小型团队或家庭多设备场景，可同时连接较多设备。若人数较少，可先考虑旗舰版再按需调整。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按月付灵活，适合短期使用；按年付月均成本更低，适合长期稳定使用。可根据预计使用时长选择。",
+          "AI_FAQ_QUESTION_4": "如何判断自己需要哪档流量？",
+          "AI_FAQ_ANSWER_4": "先估算每日流媒体、浏览与下载的时长，再乘以设备数量。轻量使用可选基础版，多设备高频使用建议旗舰版或团队版。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先核对客户端版本与订阅信息是否对应，再参照客户端文档重新导入。若仍无法连接，可通过工单渠道反馈具体提示。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9b14f5acdc977e199659f1e3abda69b934cb454809f83797dc1ae7ac7bde25d1",
+    "sitemap.xml": "90e8d1161b632cd74923301da0d76e1090ecf7ad164abad67559a898c792762b",
+    "robots.txt": "27435e2b23f24b62d0143f8eb56e6e69f96e2e12e032c28e010db15b309582cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9535c8f288b7229a35d0bc5908e5e76bc3ec97aec3d8c8d3f592edfe6c2aeabe"
+}
